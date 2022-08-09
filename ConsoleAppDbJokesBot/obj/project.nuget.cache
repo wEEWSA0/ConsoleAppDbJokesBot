@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tM9kBd+l+B1Pb43lBntowPZ4cjhnvvXHhoFCbjqm9nH0jjdp7UirH3vkUOV2QGgRef+105a4YBpGRnR7rSowGg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ConsoleAppDbJokesBot\\ConsoleAppDbJokesBot\\ConsoleAppDbJokesBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\npgsql\\7.0.0-preview.6\\npgsql.7.0.0-preview.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
